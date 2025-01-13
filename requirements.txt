@@ -4,4 +4,4 @@ python-dotenv
 pyjwt
 psycopg2
 SQLAlchemy
-"fastapi[standard]"
+fastapi[standard]
